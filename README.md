@@ -8,7 +8,7 @@
 ## Requirements
 ```matplotlib, skimage, ipywidgets, imagemagick```
 
-```imagemagick``` is used for creating gif. You can install ```imagemagick``` by ```sudo apt-get install imagemagick```.
+```imagemagick``` is used to create gif. You can install ```imagemagick``` by ```sudo apt-get install imagemagick```.
 
 ## See the Jupyter Notebook for details!
 See ```3D_image_visualization_and_interaction_using_matplotlib.ipynb```
