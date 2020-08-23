@@ -10,4 +10,5 @@
 
 ```imagemagick``` is used for creating gif. You can install ```imagemagick``` by ```sudo apt-get install imagemagick```.
 
-## See the Jupyter Notebook ```3D_image_visualization_and_interaction_using_matplotlib``` for details!
+## See the Jupyter Notebook for details!
+See ```3D_image_visualization_and_interaction_using_matplotlib.ipynb```
